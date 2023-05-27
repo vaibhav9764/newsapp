@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "Sportsnet.ca",
+            "title": "‘Heartbreak’: Maple Leafs fans react to gutwrenching series loss to Panthers - Sportsnet.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS9uaGwvYXJ0aWNsZS9oZWFydGJyZWFrLW1hcGxlLWxlYWZzLWZhbnMtcmVhY3QtdG8tZ3V0d3JlbmNoaW5nLXNlcmllcy1sb3NzLXRvLXBhbnRoZXJzL9IBbmh0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS9uaGwvaGVhcnRicmVhay1tYXBsZS1sZWFmcy1mYW5zLXJlYWN0LXRvLWd1dHdyZW5jaGluZy1zZXJpZXMtbG9zcy10by1wYW50aGVycy9zbi1hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-13T03:07:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Maple Leafs eliminated from playoffs as Panthers' Cousins secures Game 5 OT winner | CBC Sports",
+            "description": "The Toronto Maple Leafs were eliminated from the playoffs with a 3-2 overtime loss to the Florida Panthers in Game 5 of their second-round series on Friday night at Scotiabank Arena in Toronto.",
+            "url": "http://www.cbc.ca/sports/hockey/nhl/toronto-maple-leafs-florida-panthers-game-5-nhl-recap-may-12-1.6842349",
+            "urlToImage": "https://i.cbc.ca/1.6842528.1683943993!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1254312620.jpg",
+            "publishedAt": "2023-05-13T02:52:14.9551075Z",
+            "content": "The Toronto Maple Leafs were eliminated from the playoffs with a 3-2 overtime loss to the Florida Panthers in Game 5 of their second-round series on Friday night at Scotiabank Arena in Toronto.\r\nNick… [+971 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Katherine Hamilton",
+            "title": "25 Governors: New Rule Could Keep States from Protecting Girls' Sports",
+            "description": "Half of the nation's governors asked Cardona to withdraw a proposed Title IX regulation they say would prevent fairness in women’s and girls’ sports.",
+            "url": "http://www.breitbart.com/politics/2023/05/12/25-gop-governors-say-proposed-biden-admin-rule-would-prevent-states-from-protecting-womens-and-girls-sports/",
+            "urlToImage": "https://media.breitbart.com/media/2023/02/Transgender-Sports-1-640x335.jpg",
+            "publishedAt": "2023-05-13T01:14:51Z",
+            "content": "Half of the nation’s governors wrote to Department of Education Secretary Miguel Cardona on Friday, asking he withdraw a proposed Title IX regulation they say would “prevent states from enforcing our… [+5340 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le flash sports du 13 mai",
+            "description": "Retrouvez l'essentiel de l'actualité sportive avec votre Flash L'Équipe.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-13-mai/1396256",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001782583/0:0,1997:1331-640-427-75/0839b.jpg",
+            "publishedAt": "2023-05-12T22:05:00+00:00",
+            "content": "Mené et réduit à 10, Lens vient à bout de Reims (2-1). Mont-de-Marsan domine Agen et file en demi-finales de Pro D2. Davide Bais remporte la 7e étape du Giro après une longue échappée. Audrey Tcheumé… [+50 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Philippe Escande",
+            "title": "« La concurrence fait doucement son entrée dans les transports publics de la région parisienne »",
+            "description": "La SNCF, par le biais de sa filiale Keolis, devrait obtenir l’exploitation des futures lignes 16 et 17 du métro du Grand Paris Express, au nez et à la barbe de la RATP. Une rivalité appelée à s’exacerber, puisque les lignes de bus d’Ile-de-France seront soumi…",
+            "url": "https://www.lemonde.fr/economie/article/2023/05/12/la-concurrence-fait-doucement-son-entree-dans-les-transports-publics-de-la-region-parisienne_6173067_3234.html",
+            "urlToImage": "https://img.lemde.fr/2023/05/12/1/0/8192/5461/1440/960/60/0/71556a0_1683876188085-grand-paris-express.jpg",
+            "publishedAt": "2023-05-12T09:00:06Z",
+            "content": "Une machine de forage sur le chantier de la ligne de métro 17 du Grand Paris Express, à Bonneuil-en-France (Val-dOise), le 18 septembre 2020 LUDOVIC MARIN / AFP\r\nCette rivalité vient de loin. Cest po… [+2487 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ Knicks Playoff Special ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+            "urlToImage": null,
+            "publishedAt": "2023-04-17T21:22:15.1716203Z",
+            "content": "Knicks Start Playoff Run | Hero Ball"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        }
+    ]
+}
